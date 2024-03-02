@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is learning git tutorial repository.
 <br>
-Author -  Abhishek kumar
+Author -  Abhishek stunner
